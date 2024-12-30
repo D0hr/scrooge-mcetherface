@@ -1,6 +1,6 @@
 [settings]
-rpc = http://localhost:7545
-sender = [your-ethereum-address]
+rpc = https://holesky.infura.io/v3/51ed3fbd5f424f429b02ecf89245e692
+sender = [0x09c7005ead4e5dc39a43b06755ac367dea15eb90]
 symbolic_tx_count = 3
 timeout = 120
 gasprice = 1000000000
